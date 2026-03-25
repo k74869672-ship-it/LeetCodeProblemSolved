@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
