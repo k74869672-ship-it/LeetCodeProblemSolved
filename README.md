@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1470-shuffle-the-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
