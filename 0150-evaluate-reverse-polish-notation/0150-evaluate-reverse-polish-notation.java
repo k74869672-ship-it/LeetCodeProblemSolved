@@ -1,26 +1,52 @@
+import java.util.Stack;
+
 class Solution {
+
     public int evalRPN(String[] tokens) {
+
         Stack<Integer> stack = new Stack<>();
 
-        for (String str : tokens) {
-            if (str.equals("+")) {
-                stack.push(stack.pop() + stack.pop());
-            } else if (str.equals("-")) {
-                int second = stack.pop();
-                int first = stack.pop();
-                stack.push(first - second);
+        for (String token : tokens) {
 
-            } else if (str.equals("*")) {
-                stack.push(stack.pop() * stack.pop());
+            if (isOperator(token)) {
+                int operand2 = stack.pop();
+                int operand1 = stack.pop();
+                int result = performOperation(token, operand1, operand2);
+                stack.push(result);
+            }
 
-            } else if (str.equals("/")) {
-                int second = stack.pop();
-                int first = stack.pop();
-                stack.push(first / second);
-            } else {
-                stack.push(Integer.parseInt(str));
+            else {
+                stack.push(Integer.parseInt(token));
             }
         }
-        return stack.peek();
+        return stack.pop();
+    }
+
+    private boolean isOperator(String token) {
+        return token.equals("+")
+                || token.equals("-")
+                || token.equals("*")
+                || token.equals("/");
+    }
+
+    private int performOperation(String operator, int operand1, int operand2) {
+
+        switch (operator) {
+
+            case "+":
+                return operand1 + operand2;
+
+            case "-":
+                return operand1 - operand2;
+
+            case "*":
+                return operand1 * operand2;
+
+            case "/":
+                return operand1 / operand2;
+
+            default:
+                return 0;
+        }
     }
 }
