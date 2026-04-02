@@ -128,5 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
