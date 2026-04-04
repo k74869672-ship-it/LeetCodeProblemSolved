@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0933-number-of-recent-calls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
