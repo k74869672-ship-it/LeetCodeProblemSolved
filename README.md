@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
