@@ -16,7 +16,7 @@ class Solution {
                 int sum = 0;
 
                 for (int row = 0; row < rows; row++) {
-                    sum += matrix[row][col2] - (col1 > 0 ? matrix[row][col1 - 1] : 0);
+                    sum += matrix[row][col2] - (col1 > 0 ? matrix[row][col1-1] : 0);
                     count += map.getOrDefault(sum - target, 0);
                     map.put(sum, map.getOrDefault(sum, 0) + 1);
                 }
