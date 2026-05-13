@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
