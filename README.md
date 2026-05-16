@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Union-Find
 |  |
