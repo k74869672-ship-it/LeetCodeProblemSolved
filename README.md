@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 ## Tree
 |  |
 | ------- |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
