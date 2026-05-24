@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1470-shuffle-the-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Tree
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Union-Find
 |  |
 | ------- |
