@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Memoization
 |  |
