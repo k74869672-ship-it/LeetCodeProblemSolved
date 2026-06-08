@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0174-dungeon-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Memoization
