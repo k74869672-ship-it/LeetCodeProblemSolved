@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
+| [3689-maximum-total-subarray-value-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
+| [3689-maximum-total-subarray-value-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
 | ------- |
