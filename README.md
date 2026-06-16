@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0091-decode-ways) |
 | [0174-dungeon-game](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0174-dungeon-game) |
+| [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 ## Quickselect
