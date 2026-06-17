@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3612-process-string-with-special-operations-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
