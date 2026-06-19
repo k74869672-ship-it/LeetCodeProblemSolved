@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1732-find-the-highest-altitude](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
