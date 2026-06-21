@@ -11,11 +11,10 @@ class Solution {
         }
 
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (count[c - 'a'] > 0 && count[c - 'a'] < k) {
-
-                String leftString = s.substring(0,i);
-                String rightString = s.substring(i+ 1);
+            char ch = s.charAt(i);
+            if (count[ch - 'a'] > 0 && count[ch - 'a'] < k) {
+                String leftString = s.substring(0, i);
+                String rightString = s.substring(1+i);
 
                 int leftResult = longestSubstring(rightString, k);
                 int rightResult = longestSubstring(leftString, k);
@@ -24,5 +23,6 @@ class Solution {
             }
         }
         return s.length();
+
     }
 }
