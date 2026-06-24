@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Tree
 |  |
 | ------- |
