@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0413-arithmetic-slices) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0413-arithmetic-slices) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0509-fibonacci-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
