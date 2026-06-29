@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
