@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Tree
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
+| [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
@@ -407,10 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0207-course-schedule) |
+| [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0207-course-schedule) |
+| [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -456,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
