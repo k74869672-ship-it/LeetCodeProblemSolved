@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0413-arithmetic-slices](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1046-last-stone-weight) |
