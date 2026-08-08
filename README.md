@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
