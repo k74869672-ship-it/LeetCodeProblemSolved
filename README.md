@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3312-sorted-gcd-pair-queries) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0413-arithmetic-slices) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
