@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Bit Manipulation
