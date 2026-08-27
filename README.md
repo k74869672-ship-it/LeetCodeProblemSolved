@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Shortest Path
 |  |
 | ------- |
