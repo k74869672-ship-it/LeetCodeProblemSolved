@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3536-maximum-product-of-two-digits) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
