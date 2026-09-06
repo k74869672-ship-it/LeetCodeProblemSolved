@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
