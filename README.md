@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1927-sum-game) |
@@ -672,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
