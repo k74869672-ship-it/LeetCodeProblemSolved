@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0482-license-key-formatting](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0520-detect-capital) |
+| [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0831-masking-personal-information](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0831-masking-personal-information) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
+| [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
 ## Enumeration
 |  |
 | ------- |
