@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1563-stone-game-v) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3524-find-x-value-of-array-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
