@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
