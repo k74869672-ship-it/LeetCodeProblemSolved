@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0063-unique-paths-ii) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
