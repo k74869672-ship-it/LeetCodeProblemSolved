@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
+| [0678-valid-parenthesis-string](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0831-masking-personal-information](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0831-masking-personal-information) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1096-brace-expansion-ii) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1386-cinema-seat-allocation) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0940-distinct-subsequences-ii) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
