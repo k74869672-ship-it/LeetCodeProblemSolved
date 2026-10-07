@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0482-license-key-formatting](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0482-license-key-formatting) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Merge Sort
