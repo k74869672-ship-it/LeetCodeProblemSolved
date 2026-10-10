@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2607-make-k-subarray-sums-equal](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2607-make-k-subarray-sums-equal) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
