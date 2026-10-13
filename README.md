@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3903-smallest-stable-index-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
