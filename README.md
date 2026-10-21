@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
