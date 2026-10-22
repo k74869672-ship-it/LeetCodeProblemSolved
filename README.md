@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0200-number-of-islands) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
