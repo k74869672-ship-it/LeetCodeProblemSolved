@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1046-last-stone-weight) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1331-rank-transform-of-an-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2685-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
@@ -641,12 +644,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1254-number-of-closed-islands](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2685-count-the-number-of-complete-components) |
