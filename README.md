@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
