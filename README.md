@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0486-predict-the-winner) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0877-stone-game) |
