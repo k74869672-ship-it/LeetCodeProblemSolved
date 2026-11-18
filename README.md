@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
