@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
+| [0412-fizz-buzz](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0486-predict-the-winner) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1700-number-of-students-unable-to-eat-lunch) |
