@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0486-predict-the-winner) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0279-perfect-squares) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
