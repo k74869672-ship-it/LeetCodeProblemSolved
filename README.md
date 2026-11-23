@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1563-stone-game-v) |
@@ -559,11 +562,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1352-product-of-the-last-k-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
