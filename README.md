@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0413-arithmetic-slices](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0413-arithmetic-slices) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
