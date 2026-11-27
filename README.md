@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/k74869672-ship-it/75DaysLeetcodeChallenge/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/k74869672-ship-it/LeetCodeProblemSolved/tree/master/3348-smallest-divisible-digit-product-ii) |
